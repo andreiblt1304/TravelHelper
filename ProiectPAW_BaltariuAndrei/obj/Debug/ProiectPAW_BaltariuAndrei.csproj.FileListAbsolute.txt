@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\bin\Debug\ProiectPAW_BaltariuAndrei.exe.config
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\bin\Debug\ProiectPAW_BaltariuAndrei.exe
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\bin\Debug\ProiectPAW_BaltariuAndrei.pdb
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.angajatMenu.resources
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.clientMenu.resources
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.mainMenu.resources
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.Properties.Resources.resources
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.exe
+C:\Users\User\source\repos\ProiectPAW_BaltariuAndrei\ProiectPAW_BaltariuAndrei\obj\Debug\ProiectPAW_BaltariuAndrei.pdb
